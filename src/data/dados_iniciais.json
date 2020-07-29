@@ -1,183 +1,195 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Trailhers",
+      "link": "https://www.youtube.com/results?search_query=trailher%27s",
+      "cor": "#e4302a",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Assista aos trailhers dos principais lançamentos de 2020",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "DE ONDE VEIO O CINEMA?",
+          "url": "https://www.youtube.com/embed/7MoTQxm31TM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Velozes & Furiosos 9",
+          "url": "https://www.youtube.com/embed/NnDGWyfP7q4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "TOP GUN 2: Maverick",
+          "url": "https://www.youtube.com/embed/HpZgwHU1GcI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "VENOM 2: CARNAGE",
+          "url": "https://www.youtube.com/embed/8cG1aVT-M-A"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "XMEN: THE NEW MUTANTS",
+          "url": "https://www.youtube.com/embed/uzWEhnhqn4M"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "PARADISE LOST",
+          "url": "https://www.youtube.com/embed/qGkG3WxVrco"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "BILL & TED 3",
+          "url": "https://www.youtube.com/embed/XhRHDFLhbJA"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Extraction",
+          "url": "https://www.youtube.com/embed/M_o2z9jU_VE"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Erros",
+      "cor": "#e4302a",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Conheça os erros de gravações dos seus filmes favoritos",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "10 ERROS em filmes que você NÃO percebeu !!",
+          "url": "https://www.youtube.com/embed/5EGRNwNscNA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "10 ERROS EM FILMES ANIMADOS QUE VOCÊ NÃO PERCEBEU !!",
+          "url": "https://www.youtube.com/embed/-wBRNxDa2yg"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "25 ERROS em FILMES DE TERROR que você não percebeu!",
+          "url": "https://www.youtube.com/embed/w4Lq-72KLwc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "7 ERROS em Filmes feitos DE PROPÓSITO!",
+          "url": "https://www.youtube.com/watch?v=bGbG1cS88pE"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "30 ERROS BIZARROS que você não NOTOU em AS BRANQUELAS",
+          "url": "https://www.youtube.com/watch?v=CHoielU27gE"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Sagas",
+      "cor": "#e4302a",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Conheça as histórias das melhores sagas do cinema",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Saga Sexta-Feira 13",
+          "url": "https://www.youtube.com/embed/I2oQByOF3Lg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Saga Harry Potter",
+          "url": "https://www.youtube.com/embed/WdCTOmeN7sc"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Saga Star Wars",
+          "url": "https://www.youtube.com/embed/4Phizo62ioA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Saga IT - A Coisa",
+          "url": "https://www.youtube.com/embed/YS5wZpxgS3w"
+        },
+        {
+          "titulo": "Saga Resident Evil",
+          "url": "https://www.youtube.com/embed/jpyJMkQXcvM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Listas",
+      "cor": "#e4302a",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Indicações de ótimos filmes",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "7 Filmes em que O MAL VENCE",
+          "url": "https://www.youtube.com/embed/CqcoWu9Dp2c"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "5 Segredos REVELADORES escondidos em GRANDES FILMES",
+          "url": "https://www.youtube.com/embed/Fi_ZfI1Zb0Y"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "8 FILMES DE AÇÃO MAIS ESPERADOS DE 2020",
+          "url": "https://youtu.be/NBdcnBdQhOY"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "7 Filmes que você NUNCA deve assistir SOZINHO!",
+          "url": "https://www.youtube.com/embed/9Ssyg8U9jKs"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "5 Filmes BANIDOS por motivos IDIOTAS",
+          "url": "https://www.youtube.com/embed/idG_0AZ1w1c"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Efeitos Especiais",
+      "cor": "#e4302a",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Veja o que acontece por de trás das cameras",
+        "url": "https://www.youtube.com"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "10 FILMES ANTES E DEPOIS DOS EFEITOS ESPECIAIS",
+          "url": "https://www.youtube.com/embed/LYhhTWnp1xc"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Como São os Grandes Filmes sem os Efeitos Especiais",
+          "url": "https://youtu.be/6lVJNRc2IF0"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "10 EFEITOS ESPECIAIS DESNECESSÁRIOS!",
+          "url": "https://youtu.be/e2OYiypqRlU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "COMO É VELOZES E FURIOSOS SEM EFEITOS ESPECIAIS",
+          "url": "https://youtu.be/pl25UkwwfZ8"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "7 Efeitos Especiais RIDÍCULOS em GRANDES FILMES",
+          "url": "https://youtu.be/qkWTHtR6-NM"
+        }
+      ]
+    },
+    {
+      "titulo": "Critica",
+      "cor": "#e4302a",
+      "link_extra": {
+        "text": "Veja o olhar crítico de filmes famosos",
+        "url": "https://www.youtube.com"
+      },
+      "videos": [
+        {
+          "titulo": "EFEITO BORBOLETA é bom?",
+          "url": "https://youtu.be/7cLqwm3zQZI"
+        },
+        {
+          "titulo": "Por que MATRIX é bom?",
+          "url": "https://youtu.be/s-9fK9ZEbUg"
+        },
+        {
+          "titulo": "JOHN WICK 3: PARABELLUM é bom?",
+          "url": "https://youtu.be/1dhRunE21JM"
+        },
+        {
+          "titulo": "VINGADORES: ULTIMATO é bom?",
+          "url": "https://youtu.be/UjVL3ardXro"
+        },
+        {
+          "titulo": "Por que BASTARDOS INGLÓRIOS é bom?",
+          "url": "https://youtu.be/ShtkTAogRXw"
         }
       ]
     }
